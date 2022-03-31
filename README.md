@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there!! 👋 
+
+To learn more about me, take a look around my repos. 
+
+My CV is at https://ross-spencer.github.io/curriculum-vitae/
+
+[![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=ross-spencer&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ross-spencer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ross-spencer/ross-spencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
